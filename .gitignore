@@ -1,0 +1,20 @@
+﻿# .NET build/output folders
+bin/
+obj/
+
+# Visual Studio/IDE files
+.vs/
+*.user
+*.suo
+*.cache
+
+# Local development configs (sensitive data!)
+appsettings.Development.json
+
+# NuGet packages
+*.nupkg
+
+# Misc
+.DS_Store
+*.swp
+*.log

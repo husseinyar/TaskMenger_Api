@@ -1,0 +1,6 @@
+@MultiTaskManager_HostAddress = http://localhost:5148
+
+GET {{MultiTaskManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
